@@ -1,0 +1,2 @@
+# Supply-Chain-Management-System-with-Autonomous-Robots
+To create a friendly user interface for controlling and managing robots involved in a supply chain system for varied users. The robot control is to be managed using ROS. This is linked to a Django web server and a MySQL database. The latter part of the project involves providing intelligence to the robots with algorithms like path planning, etc (in ROS).
