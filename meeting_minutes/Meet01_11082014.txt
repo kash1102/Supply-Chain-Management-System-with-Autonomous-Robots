@@ -1,0 +1,21 @@
+Attendees:
+	Abhineet Jain
+	Tanmay Sahay
+	Abhinav Shukla
+	Kashish Punjani
+	Mr. Hemanth Satyanarayana, CIE IIITH
+	Mr. Vamsi, CIE IIITH
+	
+Agenda:
+	Overview of the Project alloted - Supply Chain Management System with Autonomous Robots
+
+Minutes:
+	1. Use of Django as server with an Apache wrapper to provide a user interaction with the robot system.
+	2. Use of ROS (Robot Operating System) to provide an API for managing/controlling the functions of the robots.
+	3. Mr. Hemanth suggested team composition as ROS - 1, Django - 2, Minor JS - 1.
+	4. Database to be used - MySQL.
+	5. Suggested that the team members should overview basics of Django and ROS for the coming week since it is new.
+	6. Some details about ROS was provided as to languages it is written in (C++, Python).
+	7. Have to connect ROS and Django, and Django and front-end.
+	8. Two approaches suggested: control the grid movement of robots through ROS or through Django.
+	9. Basic Practical Application: Say in a warehouse, or any closed 3D environment, an employee should be able to call a robot using the CMS and load him with packages, then state the next command, say move to some isle using the CMS, the robot should be able to make its way, and reach the destination, overcoming obstacles in its way.

@@ -1,0 +1,30 @@
+Agenda: Getting final requirements and deliverables
+Attendees: Abhineet Jain
+           Tanmay Sahay 
+           Abhinav Shukla
+           Kashish Punjani
+           Hemanth Satyanarayana
+           Vignesh Prasad
+Location : Imaginate Office
+Time      : 4 P.M
+Minutes: The team is yet to implement an authentication system in Django Reason: working on other aspects of the project.
+         Work status in 3 days from now.
+         Mr. Hemanth showed us a project document similar to our project. Showed the 1: override feature 2: robot using the diagnostic  
+         Hosting 2 server on 1 machine 1: ROS 2: DJANGO 
+         All the code to be written fresh in Django . Some ROS code pre-existing.
+
+Release1 - Different types of users can login and have a view (top) of every bot and should be able to assign tasks.
+           Assign 1: tasks( Give current task, previous tasks, other diagnostics)
+                  2: maps
+                  3: models
+                  
+           Features : UI must be webresponsive(bootstrap,CSS,JS)
+           
+Release2 - Adding smartness to the systems
+           Eg: Path planning algorithm            
+           
+Guidelines:1. We have individual bitbucket accounts.
+           2. Evaluation on commit history.
+           3. Code should be usable( Coding Standard)
+           4. Always use virtual env and MySQL
+           5. All the apps talk to each other

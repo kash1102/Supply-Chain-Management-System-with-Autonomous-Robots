@@ -1,0 +1,21 @@
+Attendees:
+	Abhineet Jain
+	Tanmay Sahay
+	Abhinav Shukla
+	Kashish Punjani
+	Mr. Hemanth Satyanarayana, CIE IIITH
+	Mr. Vamsi, CIE IIITH
+
+Agenda:
+	Discussion of transfer of between ROS and Django servers
+
+Minutes:
+	1. ROS server and Django server working perfectly individually
+	2. Discussed various ideas for data transfer
+		i. using ports on both servers for communication between both Django and ROS
+		ii. using talker and listener scripts on the ROS side
+	3. Mr. Vamsi showed working ROS scripts for
+		i. camera feed
+		ii. depth feed
+	4. Discussion over transfer of different data and file types between the servers
+	   with the help of in-built abstraction in ROS

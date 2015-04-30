@@ -1,0 +1,5 @@
+This directory contains the source code for the entire project.
+
+Directory Structure:-
+Django - Contains all code for the Django server
+ROS - Contains ROS Packages which must be built on a machine which has ROS Hydro
